@@ -1,0 +1,1 @@
+notebook kaggle about clustering using K-means: https://www.kaggle.com/code/noortariq20/kmeans-clustering-for-customer-data
